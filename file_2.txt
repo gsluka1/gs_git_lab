@@ -1,2 +1,3 @@
 Author: Greg S
 my 2nd text file called new_feature
+After my disaster, I want to show it is all good, by updating this file.
