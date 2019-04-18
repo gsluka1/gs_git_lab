@@ -1,3 +1,4 @@
+Adding a line to this file so I can run diff command
 This is a git file for testing
 My name is Greg
 Purpose to see how Git and GitHub works together
